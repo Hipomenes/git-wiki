@@ -21,7 +21,7 @@ show_downloads: true
 # (string) Specify branch rendered by gitpages allowing wiki tool buttons to work
 git_branch: "master"
 # (string) Url of logo image, it can be full, absolute or relative.
-logo_url: 
+logo_url: http://3.bp.blogspot.com/-zYARmEA4hs4/U2ENHo6asVI/AAAAAAAARKM/u_rN18pt7KU/s500/illich2.jpg
 # (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
 google_analytics: 
 # (string) folder where wiki pages are stored, it's needed for tool buttons
