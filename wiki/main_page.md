@@ -17,6 +17,8 @@ It means:
 * **Markdown and html** mixed together!
 This web page is dedicated to finding functional, non-bloated software solutions for common tasks.
 
+You can read more about [degrowth](degrowth.md).
+
 # Suggestead Reading
 
 - [*The Dictionary of Development*](http://shifter-magazine.com/wp-content/uploads/2015/09/wolfgang-sachs-the-development-dictionary-n-a-guide-to-knowledge-as-power-2nd-ed-2010-1.pdf)
