@@ -4,7 +4,7 @@ redirect_from: "/"
 
 # Welcome to Zero Growth demo
 
-Nothing more appropiate than to begin with Ivan Illich's [*Silence is a Common*](silence-common-illich-md).
+Nothing more appropiate than to begin with Ivan Illich's [*Silence is a Common*](silence-common-illich.md).
 
 You can read more about [degrowth](degrowth.md).
 
