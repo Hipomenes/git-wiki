@@ -16,7 +16,8 @@ You can read more about [degrowth](degrowth.md).
 # Minimal computing
 
 - [Principles of Minimal Computing](http://go-dh.github.io/mincomp/thoughts/2016/10/03/tldr/)
-- [Suckless Software Philosophy](https://suckless.org/philosophy/)
+- [Suckless Software Philosophy](suckless-philosophy.md)
+- [Worse is Better](worse-better.md)
 - 
 
 ®DHC, 2019
