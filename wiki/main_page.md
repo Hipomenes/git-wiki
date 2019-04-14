@@ -22,9 +22,9 @@ You can read more about [degrowth](degrowth.md).
 
 ## All Time Classics of Minimal Web Design
 
-- [Wikipedia](www.wikipedia.org]
-- [Craigslist](www.craigslist.com
-- [Text NPR](text.npr.org)
-- [CNN Lite](lite.cnn.io)
+- [Wikipedia](www.wikipedia.org)
+- [Craigslist](www.craigslist.com)
+- [Text NPR](https://text.npr.org/)
+- [CNN Lite](https://lite.cnn.io)
 
 ®DHC, 2019
