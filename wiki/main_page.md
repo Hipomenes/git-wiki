@@ -19,6 +19,7 @@ You can read more about [degrowth](degrowth.md).
 - [Suckless Software Philosophy](suckless-philosophy.md)
 - [Worse is Better](worse-better.md)
 - [Minimal Viable Programs](minimal-viable.md) 
+- [Don Knuth's Email Ethics](knuth-email.md)
 
 ## All Time Classics of Minimal Web Design
 
