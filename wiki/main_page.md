@@ -20,4 +20,11 @@ You can read more about [degrowth](degrowth.md).
 - [Worse is Better](worse-better.md)
 - [Minimal Viable Programs](minimal-viable.md) 
 
+## All Time Classics of Minimal Web Design
+
+- [Wikipedia](www.wikipedia.org]
+- [Craigslist](www.craigslist.com
+- [Text NPR](text.npr.org)
+- [CNN Lite](lite.cnn.io)
+
 ®DHC, 2019
